@@ -1,6 +1,6 @@
 -- Script de Criação das Tabelas - Projeto SGA-DEV
 -- Autor: Daniel Félix
--- Data: 18/11/2025
+-- Data: 28/11/2025
 -- 1. Tabela CURSO
 CREATE TABLE curso (
     id_curso SERIAL PRIMARY KEY,

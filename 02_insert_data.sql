@@ -1,6 +1,6 @@
 -- Script de Inserção de Dados (DML) - Projeto SGA-DEV
 -- Autor: Daniel Félix
--- Data: 18/11/2025
+-- Data: 28/11/2025
 -- 1. Inserindo CURSOS
 INSERT INTO curso (nome_curso, duracao_semestres)
 VALUES ('Ciência da Computação', 8),
